@@ -8,6 +8,7 @@ This is the collection of my projects.
 产品订单需求预测：根据国内某大型制造企业3年的出货数据，使用LightGBM, BiLSTM, Attention和组合模型，按月、周、日颗粒度预测商品未来需求量，发现使用lightgbm算法按天时间颗粒度预测精度较高，获得第十一届泰迪杯数据挖掘挑战赛省三等奖。
 
 脑部MRI肿瘤识别：使用VGG16和Vision transformer对脑部MRI图像做有无肿瘤的分类，其中，在ImageNet上预训练的ViT模型，在MRI数据集仅10轮训练便可以达到92%的准确率。
+https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 
 图像色块识别：使用控制点校准图像，膨胀腐蚀后，标记和提取连通区域坐标，再根据三通道的阈值检测坐标颜色。该系统对含有4个控制点、16个色块的30张带噪模拟图片的色彩识别准确率为100%。
 
