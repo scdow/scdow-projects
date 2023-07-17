@@ -15,6 +15,7 @@ https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 武侠小说事件抽取：使用Bert4keras框架，微调bert-base-Chinese模型，再使用efficient global pointer全局指针网络方法，完成对武侠小说事件触发词和论元的预测。
 
 AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
+https://github.com/scdow/checker-minimax-and-pruning
 
 聊天机器人：https://github.com/scdow/chatrobot
 
