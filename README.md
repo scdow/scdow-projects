@@ -1,5 +1,5 @@
 # scdow-projects
-This is the collection of my projects, welcome! 
+Welcome to the collection of my projects! 
 
 路径导航毕设（进行中）：使用用于即时定位和建图的啮齿动物海马体模型RatSLAM在stanmer park数据集上实现路径导航，正在学习路径规划、SLAM算法中。
 
