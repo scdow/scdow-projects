@@ -26,9 +26,9 @@ https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
 https://github.com/scdow/checker-minimax-and-pruning
 
-聊天机器人：https://github.com/scdow/chatrobot
+生成式聊天机器人：https://github.com/scdow/chatrobot
 
-Python冒险游戏：https://github.com/scdow/Dark-recipe-adventure
+带GUI的Python冒险游戏：https://github.com/scdow/Dark-recipe-adventure
 
 安卓小球弹射游戏：https://github.com/scdow/compx202-assignment8-31711034-31711036
 
