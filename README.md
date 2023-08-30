@@ -3,7 +3,7 @@ Welcome to the collection of my projects!
 
 约束满足问题求解器毕设（进行中）：使用新一代脉冲神经网络求解约束满足问题，基于支持并行计算的GeNN神经元网络仿真框架，主要研究图着色问题、旅行商问题。
 
-路径导航毕设（准备中）：使用用于即时定位和建图的啮齿动物海马体模型RatSLAM在stanmer park数据集上实现路径导航，正在学习路径规划、SLAM算法中。
+路径导航（准备中）：使用用于即时定位和建图的啮齿动物海马体模型RatSLAM在stanmer park数据集上实现路径导航，正在学习路径规划、SLAM算法中。
 
 整车库房运营资源模拟：使用按优先级规划方法和基于or-tools的混合整数规划方法，安排低成本高效的车辆运算、仓储计划，通过docker提交结果，团队获得BMW黑客松的工业流程优化仿真赛道第二名。
 https://tianchi.aliyun.com/competition/entrance/532138/customize387
