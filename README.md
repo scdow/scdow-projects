@@ -14,7 +14,7 @@ https://github.com/scdow/dataming
 文本分类与关键词抽取：使用Bert模型和TF-IDF算法，ChatGLM2-6B模型和LoRA方法，做基于医学/非医学论文摘要的文本分类与关键词抽取，在讯飞挑战赛中排名前25。
 https://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper  
 
-干豆分类系统：根据干豆多特征的表格数据，使用随机搜索优化的支持向量机对7类干豆进行多分类，F1分数为0.976。
+干豆分类系统：根据干豆多特征的表格数据，使用随机搜索优化的支持向量机对7类干豆进行多分类，F1分数为0.976，结果好于原论文https://doi.org/10.1016/j.compag.2020.105507。
 
 脑部MRI肿瘤识别：使用VGG16和Vision transformer对脑部MRI图像做有无肿瘤的分类，其中，在ImageNet上预训练的ViT模型，在MRI数据集仅10轮训练便可以达到92%的准确率。
 https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
