@@ -8,16 +8,18 @@ https://tianchi.aliyun.com/competition/entrance/532138/customize387
 产品订单需求预测：根据国内某大型制造企业3年的出货数据，构建时间戳、时序值、商品属性特征，并使用Sequential forward selection进行特征选择。使用LightGBM（通过贝叶斯优化选择超参数）, BiLSTM, Attention和组合模型，按月、周、日颗粒度预测商品未来需求量，发现使用lightgbm算法按天时间颗粒度预测精度较高，获得第十一届泰迪杯数据挖掘挑战赛省三等奖。
 https://github.com/scdow/dataming
 
-觅食机器人自适应系统：使用进化神经网络CTRNNs_NEAT在模拟器上控制小机器人在有毒药环境下的进食 https://github.com/scdow/hungry-robot 
+觅食机器人自适应系统：使用进化神经网络CTRNNs_NEAT在模拟器上控制小机器人在有毒药环境下的进食。 
+https://github.com/scdow/hungry-robot 
 
 文本分类与关键词抽取：使用Bert模型和TF-IDF算法，做基于医学/非医学论文摘要的文本分类与关键词抽取，在讯飞挑战赛中排名前25。
 https://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper  
 
 生成式聊天机器人：https://github.com/scdow/chatrobot
 
-干豆分类系统：根据干豆多特征的表格数据，使用随机搜索优化的支持向量机对7类干豆进行多分类，F1分数为0.976，结果好于原论文（原论文连接https://doi.org/10.1016/j.compag.2020.105507）。
+干豆分类系统：根据干豆多特征的表格数据，使用随机搜索优化的支持向量机对7类干豆进行多分类，F1分数为0.976，结果好于原论文（原论文链接 https://doi.org/10.1016/j.compag.2020.105507）。
 
 图像色块识别：使用控制点校准图像，膨胀腐蚀后，标记和提取连通区域坐标，再根据三通道的阈值检测坐标颜色。该系统对含有4个控制点、16个色块的30张带噪模拟图片的色彩识别准确率为100%。
+https://github.com/scdow/lego-image-processing
 
 脑部MRI肿瘤识别：使用VGG16和Vision transformer对脑部MRI图像做有无肿瘤的分类，其中，在ImageNet上预训练的ViT模型，在MRI数据集10轮训练后准确率为92%，待优化。
 https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
