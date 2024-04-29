@@ -21,6 +21,9 @@ https://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper
 图像色块识别：使用控制点校准图像，膨胀腐蚀后，标记和提取连通区域坐标，再根据三通道的阈值检测坐标颜色。该系统对含有4个控制点、16个色块的30张带噪模拟图片的色彩识别准确率为100%。
 https://github.com/scdow/lego-image-processing
 
+物联网解决方案：通过加速度传感器和陀螺仪感知车身状态，与云服务器通信并同步给工作人员，解决共享单车翻倒后堆叠、无人使用的问题。
+https://github.com/scdow/IoT-shared-bikes
+
 脑部MRI肿瘤识别：使用VGG16和Vision transformer对脑部MRI图像做有无肿瘤的分类，其中，在ImageNet上预训练的ViT模型，在MRI数据集10轮训练后准确率为92%，待优化。
 https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 
