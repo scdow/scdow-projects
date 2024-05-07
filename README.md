@@ -11,6 +11,9 @@ https://github.com/scdow/dataming
 【Agent AI】觅食机器人自适应系统：使用进化神经网络CTRNNs_NEAT在模拟器上控制小机器人在有毒药环境下的进食。 
 https://github.com/scdow/hungry-robot 
 
+【Agent ABM】蚁群决策分析：使用ABM建模和蒙特卡洛法，通过阈值规则解释蚁群寻找巢穴的集体决策。
+https://github.com/scdow/ants-decision-making
+
 【NLP】文本分类与关键词抽取：使用Bert模型和TF-IDF算法，做基于医学/非医学论文摘要的文本分类与关键词抽取，在讯飞挑战赛中排名前25。
 https://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper  
 
