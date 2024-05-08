@@ -27,7 +27,7 @@ https://github.com/scdow/lego-image-processing
 【IoT PM】物联网解决方案：通过加速度传感器和陀螺仪感知车身状态，与云服务器通信并同步给工作人员，解决共享单车翻倒后堆叠、无人使用的问题。
 https://github.com/scdow/IoT-shared-bikes
 
-【CV】脑部MRI肿瘤识别：使用VGG16和Vision transformer对脑部MRI图像做有无肿瘤的分类，其中，在ImageNet上预训练的ViT模型，在MRI数据集10轮训练后准确率为92%，待优化。
+【CV】脑部MRI肿瘤识别：使用Vision transformer（ViT）和VGG16对脑部MRI图像做有无肿瘤的分类。ViT模型在ImageNet-1k数据集上预训练后，在MRI数据集中经过10轮训练（时间原因）后准确率约为95%；VGG16在ImageNet上预训练后，在模型底部增加4个全连接层、冻结其它层，微调10轮后准确率约为92%。待优化。
 https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 
 【NLP】武侠小说事件抽取：使用Bert4keras框架，微调bert-base-Chinese模型，再使用efficient global pointer全局指针网络方法，完成对武侠小说事件触发词和论元的预测。
