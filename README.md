@@ -17,7 +17,7 @@ https://github.com/scdow/ants-decision-making
 【NLP】文本分类与关键词抽取：使用Bert模型和TF-IDF算法，做基于医学/非医学论文摘要的文本分类与关键词抽取，在讯飞挑战赛中排名前25。
 https://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper  
 
-【NLP AIGC】生成式聊天机器人：https://github.com/scdow/chatrobot
+【NLP AIGC】生成式问答机器人：https://github.com/scdow/chatrobot
 
 【Data】干豆分类系统：根据干豆多特征的表格数据，使用随机搜索优化的支持向量机对7类干豆进行多分类，F1分数为0.976，结果好于原论文（原论文链接 https://doi.org/10.1016/j.compag.2020.105507）。
 
