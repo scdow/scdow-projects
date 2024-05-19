@@ -33,6 +33,9 @@ https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 
 【NLP】武侠小说事件抽取：使用Bert4keras框架，微调bert-base-Chinese模型，再使用efficient global pointer全局指针网络方法，完成对武侠小说事件触发词和论元的预测。
 
+【Web】天气查看器：应用允许用户登录，显示选定城镇的天气信息，并能够从预定义列表中添加或删除城镇。通过xampp在本地模拟了web服务器环境，使用phpMyAdmin用web接口管理MySQL数据库，通过AJAX将数据库中的天气数据增量更新到HTML页面。
+https://github.com/scdow/weather-watcher
+
 【Game Python AI】AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
 https://github.com/scdow/checker-minimax-and-pruning
 
