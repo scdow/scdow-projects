@@ -35,6 +35,7 @@ https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 
 【Web】天气查看器：应用允许用户登录，显示选定城镇的天气信息，并能够从预定义列表中添加或删除城镇。通过xampp在本地模拟了web服务器环境，使用phpMyAdmin用web接口管理MySQL数据库，通过AJAX将数据库中的天气数据增量更新到HTML页面。
 https://github.com/scdow/weather-watcher
+
 【Web】任务管理：springboot + vue3
 https://github.com/scdow/task-spring
 https://github.com/scdow/task-vue
