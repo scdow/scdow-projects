@@ -37,7 +37,7 @@ https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 https://github.com/scdow/weather-watcher
 
 【Web】任务管理：springboot + vue3
-https://github.com/scdow/task-spring
+https://github.com/scdow/task-spring , 
 https://github.com/scdow/task-vue
 
 【Game Python AI】AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
