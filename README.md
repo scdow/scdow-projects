@@ -2,6 +2,13 @@
 
 【OP SNN】约束满足问题求解器毕设：SNN求解图着色问题，基于GeNN在 https://www.frontiersin.org/articles/10.3389/fnins.2017.00714/full 的基础上工作。
 
+【Game Python】带GUI的Python冒险游戏：https://github.com/scdow/Dark-recipe-adventure
+
+【Game Python AI】AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
+https://github.com/scdow/checker-minimax-and-pruning
+
+【Game Java Android】Android小球弹射游戏：https://github.com/scdow/compx202-assignment8-31711034-31711036
+
 【OP】整车库房运营资源模拟：使用按优先级规划方法和基于or-tools的混合整数规划方法，安排低成本高效的车辆运算、仓储计划，通过docker提交结果，团队获得BMW黑客松的工业流程优化仿真赛道第二名。
 https://tianchi.aliyun.com/competition/entrance/532138/customize387
 
@@ -33,19 +40,14 @@ https://github.com/scdow/ViT-VGG-for-brain-mri-tumor
 
 【NLP】武侠小说事件抽取：使用Bert4keras框架，微调bert-base-Chinese模型，再使用efficient global pointer全局指针网络方法，完成对武侠小说事件触发词和论元的预测。
 
-【Web】天气查看器：应用允许用户登录，显示选定城镇的天气信息，并能够从预定义列表中添加或删除城镇。通过xampp在本地模拟了web服务器环境，使用phpMyAdmin用web接口管理MySQL数据库，通过AJAX将数据库中的天气数据增量更新到HTML页面。
+【SDE】天气查看器：应用允许用户登录，显示选定城镇的天气信息，并能够从预定义列表中添加或删除城镇。通过xampp在本地模拟了web服务器环境，使用phpMyAdmin用web接口管理MySQL数据库，通过AJAX将数据库中的天气数据增量更新到HTML页面。
 https://github.com/scdow/weather-watcher
 
-【Web】任务管理：springboot + vue3
+【SDE】任务管理：springboot + vue3
 https://github.com/scdow/task-spring , 
 https://github.com/scdow/task-vue
 
-【Game Python AI】AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
-https://github.com/scdow/checker-minimax-and-pruning
 
-【Game Python】带GUI的Python冒险游戏：https://github.com/scdow/Dark-recipe-adventure
-
-【Game Java Android】Android小球弹射游戏：https://github.com/scdow/compx202-assignment8-31711034-31711036
 
 
 
