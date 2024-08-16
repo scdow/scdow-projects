@@ -9,6 +9,8 @@ https://github.com/scdow/checker-minimax-and-pruning
 
 【Game Java Android】Android小球弹射游戏：https://github.com/scdow/compx202-assignment8-31711034-31711036
 
+【RAG prompt】https://github.com/scdow/rag-prompt  
+
 【OP】整车库房运营资源模拟：使用按优先级规划方法和基于or-tools的混合整数规划方法，安排低成本高效的车辆运算、仓储计划，通过docker提交结果，团队获得BMW黑客松的工业流程优化仿真赛道第二名。
 https://tianchi.aliyun.com/competition/entrance/532138/customize387
 
