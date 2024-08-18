@@ -2,7 +2,7 @@
 
 【OP SNN】约束满足问题求解器毕设：SNN求解图着色问题，基于GeNN在 https://www.frontiersin.org/articles/10.3389/fnins.2017.00714/full 的基础上工作。
 
-【Game Python】带GUI的Python冒险游戏：https://github.com/scdow/Dark-recipe-adventure
+【Game Python】带GUI的怪味美食制作游戏：https://github.com/scdow/Dark-recipe-adventure
 
 【Game Python AI】AI跳棋：使用minimax对抗性搜索和alpha beta剪枝算法，实现AI vs 用户的跳棋游戏，该游戏通过启发式算法和不同的搜索树深度，实现不同的难度级别，并提供GUI。
 https://github.com/scdow/checker-minimax-and-pruning
