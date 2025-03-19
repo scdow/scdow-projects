@@ -9,7 +9,13 @@ https://github.com/scdow/checker-minimax-and-pruning
 
 【Game Java Android】Android小球弹射游戏：https://github.com/scdow/compx202-assignment8-31711034-31711036
 
-【RAG prompt】https://github.com/scdow/rag-prompt  
+【NLP RAG prompt】调用GPT-3.5接口的RAG应用：计算社会科学领域。
+https://github.com/scdow/rag-prompt（可访问）  
+(https://github.com/scdow/social-media 无法访问)
+
+【NLP LLM Finetune】LLM微调：微调unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit模型，使用vicgalle/alpaca-gp4t数据集、LoRA方法微调。下载、微调、保存、加载、使用模型。
+https://github.com/scdow/llm_finetune
+
 
 【OP】整车库房运营资源模拟：使用按优先级规划方法和基于or-tools的混合整数规划方法，安排低成本高效的车辆运算、仓储计划，通过docker提交结果，团队获得BMW黑客松的工业流程优化仿真赛道第二名。
 https://tianchi.aliyun.com/competition/entrance/532138/customize387
